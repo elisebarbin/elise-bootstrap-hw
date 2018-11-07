@@ -6331,19 +6331,27 @@ h1 {
   font-family: Arial, Helvetica, sans-serif; }
 
 .col-sm-4 {
-  border-block-end: 10pt black; }
+  border-right-color: lightgray;
+  border-right-style: solid;
+  border-right-width: 1px;
+  margin-top: 10px; }
 
 .img-fluid {
-  margin-right: 10px; }
+  max-width: 70%;
+  height: auto;
+  margin-left: 100px;
+  margin-bottom: 10px; }
 
 h4 {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 0.9rem; }
+  font-size: 0.9rem;
+  margin-left: 100px; }
 
 h5 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.9rem;
-  font-style: italic; }
+  font-style: italic;
+  margin-left: 100px; }
 
 h2 {
   font-family: 'Poor Story', cursive;
