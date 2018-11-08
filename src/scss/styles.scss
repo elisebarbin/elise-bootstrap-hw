@@ -35,13 +35,6 @@ h1 {
     margin-top: 10px;
 }
 
-.img-fluid {
-    max-width: 70%;
-    height: auto;
-    margin-left: 100px;
-    margin-bottom: 10px;
-}
-
 h4 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.9rem;
@@ -64,3 +57,13 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1rem;
 }
+
+.col-sm-12 {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: gray;
+    font-size: 1rem;
+}
+
+
